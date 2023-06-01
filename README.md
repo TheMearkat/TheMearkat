@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Mitch aka @TheMearkat
 - 🌱 I’m currently learning iOS apps along with AWS and myriad other things
 - 📫 How to reach me Mitchell.mears@yahoo.com or Discord: Mearkat#0016
-- I am making a concerted effort to put more of my projects here so people can tell me how to improve, or to potentially help people do something similar.
+
